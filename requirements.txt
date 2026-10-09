@@ -1,0 +1,9 @@
+PyQt6
+PyQt6-Frameless-Window
+msoc
+requests
+beautifulsoup4
+lxml
+aiohttp
+qtawesome
+Pillow
